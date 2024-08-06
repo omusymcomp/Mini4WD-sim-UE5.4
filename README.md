@@ -7,7 +7,7 @@ Welcome to Mini4WD-sim-UE5.4
 This ripository contains simulator using a physics engine in UE5.
 If you need more info, please read this [Wiki](https://github.com/omusymcomp/Mini4WD-sim-UE5.4/wiki).
 
-![ミニ四駆](Docs/images)
+![ミニ四駆](Docs/title_image.jpg)
 
 Ver. 1.00 
 シミュレータをひとまず完成．
