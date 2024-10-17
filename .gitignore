@@ -72,3 +72,18 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# コンパイルされたバイトコード
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 仮想環境
+venv/
+ENV/
+
+# 設定ファイル
+*.ini
+*.cfg
+*.config
+
